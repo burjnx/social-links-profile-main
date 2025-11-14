@@ -80,7 +80,7 @@ body {
   color: var(--text-white);
 }
 
-.profile-info p {
+.profile-info address {
   font-size: var(--font-medium);
   font-weight: 700;
   color: var(--text-green);
